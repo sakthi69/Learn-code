@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Learn-code/static/css/main.2f732ebb.chunk.css",
+    "main.js": "/Learn-code/static/js/main.52c43de1.chunk.js",
+    "main.js.map": "/Learn-code/static/js/main.52c43de1.chunk.js.map",
+    "runtime-main.js": "/Learn-code/static/js/runtime-main.46b926c5.js",
+    "runtime-main.js.map": "/Learn-code/static/js/runtime-main.46b926c5.js.map",
+    "static/js/2.90461b49.chunk.js": "/Learn-code/static/js/2.90461b49.chunk.js",
+    "static/js/2.90461b49.chunk.js.map": "/Learn-code/static/js/2.90461b49.chunk.js.map",
+    "index.html": "/Learn-code/index.html",
+    "static/css/main.2f732ebb.chunk.css.map": "/Learn-code/static/css/main.2f732ebb.chunk.css.map",
+    "static/js/2.90461b49.chunk.js.LICENSE.txt": "/Learn-code/static/js/2.90461b49.chunk.js.LICENSE.txt",
+    "static/media/code.7da89742.png": "/Learn-code/static/media/code.7da89742.png",
+    "static/media/django.1c1ea281.jpg": "/Learn-code/static/media/django.1c1ea281.jpg",
+    "static/media/docker.151e0bbd.png": "/Learn-code/static/media/docker.151e0bbd.png",
+    "static/media/girl.d6b1238b.png": "/Learn-code/static/media/girl.d6b1238b.png",
+    "static/media/html.77aafc3e.jpg": "/Learn-code/static/media/html.77aafc3e.jpg",
+    "static/media/pyth.6efc4dc1.jpg": "/Learn-code/static/media/pyth.6efc4dc1.jpg",
+    "static/media/react.c0e8ca45.png": "/Learn-code/static/media/react.c0e8ca45.png",
+    "static/media/sql.05dcdd25.jpg": "/Learn-code/static/media/sql.05dcdd25.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.46b926c5.js",
+    "static/js/2.90461b49.chunk.js",
+    "static/css/main.2f732ebb.chunk.css",
+    "static/js/main.52c43de1.chunk.js"
+  ]
+}
